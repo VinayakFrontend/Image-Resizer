@@ -75,12 +75,4 @@ for filename in os.listdir(input_folder):
 
 ---
 
-## 📌 Outcome
 
-Easily automate repetitive image resizing tasks for web, portfolio, or app usage.
-
----
-
-## 🙋‍♂️ Author
-
-Vinayak Gupta – [MERN Stack Developer Intern]
